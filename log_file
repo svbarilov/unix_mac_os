@@ -117,17 +117,18 @@ lj1090.inktomisearch.com - - [07/Mar/2004:17:18:41 -0800] "GET /twiki/bin/view/M
 [Mon Mar 8 02:12:24 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 02:54:54 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 03:46:27 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
-[Mon Mar 8 03:48:18 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
+[Mon Mar 8 03:48:18 2004] [warning] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 03:52:17 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 03:55:09 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 04:22:55 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 04:24:47 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 04:40:32 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
-[Mon Mar 8 04:55:40 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
+[Mon Mar 8 04:55:40 2004] [warning] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 04:59:13 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 05:22:57 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
 [Mon Mar 8 05:24:29 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
-[Mon Mar 8 05:31:47 2004] [info] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
+[Mon Mar 8 05:31:47 2004] [warning] [client 64.242.88.10] (104)Connection reset by peer: client stopped connection before send body completed
+[Mon Mar 8 05:24:29 2004] [fatal error] [client 64.242.88.10] (104)Connection refused, port is used by another process
 
 
 
